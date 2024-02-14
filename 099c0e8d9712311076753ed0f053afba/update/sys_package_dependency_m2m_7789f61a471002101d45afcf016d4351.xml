@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">109b8828d9313110cedf7dffddb48f0b</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-14 04:00:26</sys_created_on>
+        <sys_id>7789f61a471002101d45afcf016d4351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Meal Planner" source="x_974412_meal_pl_0">099c0e8d9712311076753ed0f053afba</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-14 04:00:26</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

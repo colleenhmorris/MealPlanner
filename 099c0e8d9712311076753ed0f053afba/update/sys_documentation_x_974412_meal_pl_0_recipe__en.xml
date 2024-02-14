@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_link_1" label="Link" language="en" table="x_974412_meal_pl_0_recipe">
+    <sys_documentation element="" label="Recipe" language="en" table="x_974412_meal_pl_0_recipe">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_link_1</element>
+            <element/>
             <help/>
             <hint/>
-            <label>Link</label>
+            <label>Recipe</label>
             <language>en</language>
             <name>x_974412_meal_pl_0_recipe</name>
-            <plural>Links</plural>
+            <plural>Recipes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-03 15:10:49</sys_created_on>
+            <sys_created_on>2024-02-14 04:00:26</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Link</sys_name>
-            <sys_package display_value="Meal Planner" source="x_974412_meal_pl_0">099c0e8d9712311076753ed0f053afba</sys_package>
+            <sys_name>Recipe</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
             <sys_policy/>
             <sys_scope display_value="Meal Planner">099c0e8d9712311076753ed0f053afba</sys_scope>
-            <sys_update_name>sys_documentation_x_974412_meal_pl_0_recipe_u_link_1_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_974412_meal_pl_0_recipe__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-03 15:10:49</sys_updated_on>
+            <sys_updated_on>2024-02-14 04:00:26</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

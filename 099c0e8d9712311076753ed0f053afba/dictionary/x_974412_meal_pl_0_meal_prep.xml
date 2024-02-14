@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f43d0acd9712311076753ed0f053af9c" extends="task" label="Meal Prep" max_length="40" name="x_974412_meal_pl_0_meal_prep" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Recipe" mandatory="true" max_length="32" name="recipe" reference="x_974412_meal_pl_0_recipe" type="reference"/>
+    </element>
+</database>

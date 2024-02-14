@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="ingredient" table="x_974412_meal_pl_0_meal_ingredient">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true,encode_utf8=false</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-02 17:58:19</sys_created_on>
-        <sys_id>aff352099752311076753ed0f053af02</sys_id>
         <sys_name>Ingredient</sys_name>
         <sys_package display_value="Meal Planner" source="x_974412_meal_pl_0">099c0e8d9712311076753ed0f053afba</sys_package>
         <sys_policy/>

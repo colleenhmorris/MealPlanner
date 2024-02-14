@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="12d1d6459752311076753ed0f053af3c" label="Recipe Ingredient" max_length="40" name="x_974412_meal_pl_0_recipe_ingredient" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Amount needed" max_length="38" name="amount_needed" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Ingredient" mandatory="true" max_length="32" name="ingredient" reference="x_974412_meal_pl_0_ingredient" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="none" label="Prep type" max_length="40" name="prep_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="whole" sequence="0" value="whole"/>
+                <element inactive_on_update="false" label="sliced" sequence="1" value="sliced"/>
+                <element inactive_on_update="false" label="chopped" sequence="2" value="chopped"/>
+                <element inactive_on_update="false" label="minced" sequence="3" value="minced"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Recipe" mandatory="true" max_length="32" name="recipe" reference="x_974412_meal_pl_0_recipe" type="reference"/>
+        <index name="index">
+            <element name="ingredient"/>
+        </index>
+        <index name="index2">
+            <element name="recipe"/>
+        </index>
+    </element>
+</database>

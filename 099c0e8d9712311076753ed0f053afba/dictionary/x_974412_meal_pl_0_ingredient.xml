@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2711d6059752311076753ed0f053af81" label="Ingredient" max_length="40" name="x_974412_meal_pl_0_ingredient" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Whole" sequence="0" value="whole"/>
+                <element inactive_on_update="false" label="Sliced" sequence="1" value="sliced"/>
+                <element inactive_on_update="false" label="Chopped" sequence="2" value="chopped"/>
+                <element inactive_on_update="false" label="Minced" sequence="3" value="minced"/>
+            </choice>
+        </element>
+    </element>
+</database>

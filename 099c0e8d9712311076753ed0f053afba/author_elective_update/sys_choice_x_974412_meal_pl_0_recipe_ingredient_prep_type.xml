@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-11-07 17:51:00</sys_created_on>
-            <sys_id>c542c87e9792311076753ed0f053af2e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>prep_type</sys_name>
             <sys_package display_value="Meal Planner" source="x_974412_meal_pl_0">099c0e8d9712311076753ed0f053afba</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2023-11-07 17:51:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8142c87e9792311076753ed0f053af2e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-11-07 17:51:00</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2023-11-07 17:51:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8d42c87e9792311076753ed0f053af2f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-11-07 17:51:00</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2023-11-07 17:51:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c942c87e9792311076753ed0f053af30</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-11-07 17:51:00</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2023-11-07 17:51:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>0942c87e9792311076753ed0f053af31</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-11-07 17:51:00</sys_updated_on>

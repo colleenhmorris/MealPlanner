@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4c6316c59752311076753ed0f053afb6" label="Meal Ingredient" max_length="40" name="x_974412_meal_pl_0_meal_ingredient" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Amount Needed" max_length="38" name="amount_needed" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Ingredient" mandatory="true" max_length="32" name="ingredient" reference="x_974412_meal_pl_0_ingredient" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Meal" mandatory="true" max_length="32" name="meal" reference="x_974412_meal_pl_0_meal_prep" type="reference"/>
+        <index name="index">
+            <element name="ingredient"/>
+        </index>
+        <index name="index2">
+            <element name="meal"/>
+        </index>
+    </element>
+</database>

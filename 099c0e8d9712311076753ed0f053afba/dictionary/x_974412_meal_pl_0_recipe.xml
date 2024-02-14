@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="acce0a419752311076753ed0f053af80" label="Recipe" max_length="40" name="x_974412_meal_pl_0_recipe" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active" max_length="255" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Favorite" max_length="255" name="favorite" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="In Rotation" max_length="255" name="in_rotation" type="boolean"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,pdf_cell_type=image" label="Picture" max_length="255" name="picture" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" label="Recipe description" max_length="65536" name="recipe_description" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Link" max_length="1024" name="u_link_1" type="url"/>
+    </element>
+</database>
