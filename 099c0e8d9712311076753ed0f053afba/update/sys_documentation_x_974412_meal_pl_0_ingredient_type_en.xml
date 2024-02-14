@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="type" label="Type" language="en" table="x_974412_meal_pl_0_ingredient">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <help/>
+            <hint/>
+            <label>Type</label>
+            <language>en</language>
+            <name>x_974412_meal_pl_0_ingredient</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-07 16:12:57</sys_created_on>
+            <sys_id>f8db6f269752311076753ed0f053af9f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Type</sys_name>
+            <sys_package display_value="Meal Planner" source="x_974412_meal_pl_0">099c0e8d9712311076753ed0f053afba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Meal Planner">099c0e8d9712311076753ed0f053afba</sys_scope>
+            <sys_update_name>sys_documentation_x_974412_meal_pl_0_ingredient_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-07 16:12:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

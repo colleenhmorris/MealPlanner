@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-02 17:49:00</sys_created_on>
+        <sys_id>53d11a459752311076753ed0f053aff6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_974412_meal_pl_0_recipe_ingredient.x_974412_meal_pl_0.user</sys_name>
+        <sys_package display_value="Meal Planner" source="x_974412_meal_pl_0">099c0e8d9712311076753ed0f053afba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meal Planner">099c0e8d9712311076753ed0f053afba</sys_scope>
+        <sys_security_acl display_value="x_974412_meal_pl_0_recipe_ingredient">d7d11a459752311076753ed0f053aff3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_53d11a459752311076753ed0f053aff6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-02 17:49:00</sys_updated_on>
+        <sys_user_role display_value="x_974412_meal_pl_0.user" name="x_974412_meal_pl_0.user">4d9c0e8d9712311076753ed0f053afc7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
